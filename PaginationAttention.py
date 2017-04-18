@@ -18,7 +18,5 @@ dct = {
 }
 
 
-
-
 if __name__ == '__main__':
     checkthePagination('kurqa.html', 'http://game-tournaments.com/dota-2', **dct)
